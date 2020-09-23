@@ -6,7 +6,7 @@ Complete List To Make Money Online and Passive Income in 2020
 PastePal - Pasteboard, note and shortcut manager
 Quick Check - smart todo manager
 Alias - App and file shortcut manager
-My other apps
+My other apps (Hello)
 ❤️❤️😇😍🤘❤️❤️
 
 💰Ways to earn extra
