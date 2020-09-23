@@ -2,7 +2,7 @@
 Complete List To Make Money Online and Passive Income in 2020
 ❤️ Support my apps ❤️
 
-Push Hero - pure Swift native macOS application to test push notifications
+# Push Hero - pure Swift native macOS application to test push notifications
 PastePal - Pasteboard, note and shortcut manager
 Quick Check - smart todo manager
 Alias - App and file shortcut manager
