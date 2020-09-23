@@ -56,6 +56,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Audio Content
 ## Blogging
 ### Online
+- [Wix] (https://wix.com/) - Wix is a cloud-based solution for building your website 
+- [WordPress] (https://wordpress.com/) - WordPress is a world leading platform for blogging
 ### Hosted
 ### Infrastructure
 ### SEO
@@ -86,6 +88,15 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Survey
 ## Video Content
 
+# Resources
+Below you will find a curated list of awesome resources to grow your online business
+
+## Books
+## Podcasts
+## Videos
+
+# HOW-TOs
+Below you will find a curated list of awesome resource to launch your online business
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
