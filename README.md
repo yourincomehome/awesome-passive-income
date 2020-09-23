@@ -56,8 +56,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Audio Content
 ## Blogging
 ### Online
-- [Wix] (https://wix.com/) - Wix is a cloud-based solution for building your website 
-- [WordPress] (https://wordpress.com/) - WordPress is a world leading platform for blogging
+- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
+- [WordPress](https://wordpress.com) - WordPress is a world leading platform for blogging
 ### Hosted
 ### Infrastructure
 ### SEO
