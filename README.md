@@ -72,6 +72,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
 - [Wordpress.org](https://wordpress.org/themes/) - Wordpress.org has over 7000 themes for free
 ## Book Publishing
+- [Amazon Kindle Direct Publishing](https://kdp.amazon.com) - KDP by Amazon is the best self-publishing service in the world
+- [Apple Books](https://www.apple.com/apple-books) - Apple Books is an e-book reading and store application by Apple
 ## Development
 ## E-Commerce
 ### Online
