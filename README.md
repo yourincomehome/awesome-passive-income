@@ -79,6 +79,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Google Play Books](https://play.google.com/books) - Google Play Books
 ## Development
 ## E-Commerce
+- [Shopify](https://www.shopify.com) - Apple Books is an e-book reading and store application by Apple
+- [Bigcommerce](https://bigcommerce.com) - 
+- [3dcart](https://www.3dcart.com/)
 ### Online
 ### Hosted
 ### Dropshipping
