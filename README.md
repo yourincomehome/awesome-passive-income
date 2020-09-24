@@ -85,6 +85,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [3dcart](https://www.3dcart.com/) - 3dcart is an established, industry leading and robust e-commerce software platform that was founded already back in 1997.
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website
 ### Hosted
+- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website
 ### Dropshipping
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
 - [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
