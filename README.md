@@ -70,6 +70,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Theme
 - [ElegantThemes](https://www.elegantthemes.com) - Elegant Themes has DIVI the most popular WordPress Theme
 - [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
+- [Wordpress.org](https://wordpress.org) - Wordpress.org has over 7000 themes for free
 ## Book Publishing
 ## Development
 ## E-Commerce
