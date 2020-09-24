@@ -79,12 +79,14 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Google Play Books](https://play.google.com/books) - Google Play Books
 ## Development
 ## E-Commerce
+### Online
 - [Shopify](https://www.shopify.com) - Apple Books is an e-book reading and store application by Apple
 - [Bigcommerce](https://bigcommerce.com) - 
 - [3dcart](https://www.3dcart.com/)
-### Online
 ### Hosted
 ### Dropshipping
+- [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
+- [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
 ### Amazon FBA
 ### Print-on-demand
 ## E-Learning
