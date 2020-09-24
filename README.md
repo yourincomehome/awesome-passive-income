@@ -83,8 +83,12 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
 - [Bigcommerce](https://bigcommerce.com) - BigCommerce is a public technology company and provides a SaaS ecommerce platform.
 - [3dcart](https://www.3dcart.com/) - 3dcart is an established, industry leading and robust e-commerce software platform that was founded already back in 1997.
-- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website
+- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 ### Hosted
+- [Magento](https://www.prestashop.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
+- [PrestaShop](https://www.prestashop.com) - PrestaShop is a freemium, open source e-commerce solution. The software is published under the Open Software License (OSL).
+- [OpenCart](https://www.opencart.com) - OpenCart is an online store management system. It is freely available under the GNU General Public License.
+- [WooCommerce](https://www.woocommerce.com) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress. 
 ### Dropshipping
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
 - [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
