@@ -88,6 +88,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
 - [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
 ### Amazon FBA
+- [JungleScout](https://www.junglescout.com) - JungleScout is an all-in-one platform for selling on Amazon FBA
+- [Helium10](https://www.helium10.com/) - Helium 10 has over 20 features that help you manage every aspect of your Amazon business.
+- [Viral Launch](https://viral-launch.com) - Viral Launch is a complete and comprehensive package of tools for Amazon FBA
 ### Print-on-demand
 ## E-Learning
 ### Online
