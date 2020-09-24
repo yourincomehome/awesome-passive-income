@@ -80,9 +80,10 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Development
 ## E-Commerce
 ### Online
-- [Shopify](https://www.shopify.com) - Apple Books is an e-book reading and store application by Apple
-- [Bigcommerce](https://bigcommerce.com) - 
-- [3dcart](https://www.3dcart.com/)
+- [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
+- [Bigcommerce](https://bigcommerce.com) - BigCommerce is a public technology company and provides a SaaS ecommerce platform.
+- [3dcart](https://www.3dcart.com/) - 3dcart is an established, industry leading and robust e-commerce software platform that was founded already back in 1997.
+- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website
 ### Hosted
 ### Dropshipping
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
