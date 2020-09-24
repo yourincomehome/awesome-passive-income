@@ -66,8 +66,10 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### SEO
 - [Ahrefs](https://ahrefs.com) - Ahrefs is an SEO software for link building, keyword research, competitor analysis, rank tracking and site audits
 - [SEMRush](https://semrush.com) - SEMrush is an all-in-one SEO tool for improving online visibility and discovering marketing insights. 
-- [Growthbar](https://www.growthmarketingpro.com/growthbar/) - GrowthBar is the #1 Rated Google Chrome Plugin for SEO
+- [Growthbar](https://www.growthmarketingpro.com/growthbar) - GrowthBar is the #1 Rated Google Chrome Plugin for SEO
 ### Theme
+- [ElegantThemes](https://www.elegantthemes.com) - Elegant Themes has DIVI the most popular WordPress Theme
+- [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
 ## Book Publishing
 ## Development
 ## E-Commerce
