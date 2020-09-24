@@ -111,7 +111,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Freelancing
 ### General
 - [Fiverr](https://www.fiverr.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
-- [Freelancer.com.](https://www.freelancer.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
+- [Freelancer.com.](https://www.freelancer.com) - Freelancer is a crowdsourcing marketplace website, which allows potential employers to post jobs that freelancers can then bid to complete.
 - [Toptal](https://www.toptal.com) - Toptal is a freelance website which promises companies they can hire the top 3% of global freelancers
 - [PeoplePerHour](https://www.peopleperhour.com) - PeoplePerHour
 - [Upwork](https://www.upwork.com) - Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
