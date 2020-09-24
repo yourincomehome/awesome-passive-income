@@ -53,7 +53,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 
 
 ## Affiliation
-## Audio Content
+## Audio
 ## Blogging
 ### Online
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
@@ -101,6 +101,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Teespring](https://teespring.com) - Teespring is a print on demand platform to create and sell products by uploading your original designs
 - [Redbubble](https://www.redbubble.com) - Redbubble is a global online marketplace for print-on-demand products based on user-submitted artwork
 - [Printful](https://www.printful.com) - Printful is an on-demand order fulfillment and warehousing service that fulfills and ships products including clothing
+- [Printify](https://printify.com/) - Printify is a transparent print on demand network, instantly connecting merchants to major Print Providers worldwide.
 ## E-Learning
 ### Online
 - [Pluralsight](https://www.pluralsight.com) - Pluralsight is online education platform that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
@@ -119,13 +120,14 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Freelancing
 ### General
 - [Fiverr](https://www.fiverr.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
-- [Upwork](https://www.upwork.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
+- [Upwork](https://www.upwork.com) - Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
 ### Copywriting
 ### Design
+- [99designs](https://99designs.fr/) - 99designs is the global creative platform that makes it easy for designers and clients to work together to create designs they love.
 ### Development
 ## Newsletter
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
-## Photo Content
+## Photo
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
 - [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
@@ -137,7 +139,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 ## Survey
-## Video Content
+## Video
 
 # Resources
 Below you will find a curated list of awesome resources to grow your online business
