@@ -74,6 +74,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Book Publishing
 - [Amazon Kindle Direct Publishing](https://kdp.amazon.com) - KDP by Amazon is the best self-publishing service in the world
 - [Apple Books](https://www.apple.com/apple-books) - Apple Books is an e-book reading and store application by Apple
+- [Barnes and Noble Press](https://press.barnesandnoble.com/) - Barnes & Noble Press is an self-publishing platform where independent authors can find everything to publish
+- [Audible](https://www.audible.com/) - Aubible by Amazon is a self-publishing audiobook platform
+- [Google Play Books](https://play.google.com/books) - Google Play Books
 ## Development
 ## E-Commerce
 ### Online
