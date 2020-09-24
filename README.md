@@ -126,6 +126,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Development
 ## Newsletter
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
+- [Mailchimp](https://mailchimp.com) - MailChimp is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 ## Photo
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
