@@ -80,10 +80,16 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Development
 ## E-Commerce
 ### Online
-- [Shopify](https://www.shopify.com) - Apple Books is an e-book reading and store application by Apple
-- [Bigcommerce](https://bigcommerce.com) - 
-- [3dcart](https://www.3dcart.com/)
+- [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
+- [Bigcommerce](https://bigcommerce.com) - BigCommerce is a public technology company and provides a SaaS ecommerce platform.
+- [3dcart](https://www.3dcart.com/) - 3dcart is an established, industry leading and robust e-commerce software platform that was founded already back in 1997.
+- [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 ### Hosted
+- [Magento](https://www.prestashop.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
+- [PrestaShop](https://www.prestashop.com) - PrestaShop is a freemium, open source e-commerce solution. The software is published under the Open Software License (OSL).
+- [OpenCart](https://www.opencart.com) - OpenCart is an online store management system. It is freely available under the GNU General Public License.
+- [WooCommerce](https://www.woocommerce.com) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress. 
+
 ### Dropshipping
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
 - [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
@@ -97,8 +103,11 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Printful](https://www.printful.com) - Printful is an on-demand order fulfillment and warehousing service that fulfills and ships products including clothing
 ## E-Learning
 ### Online
+- [Pluralsight](https://www.pluralsight.com) - Pluralsight is online education platform that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
+- [Skillshare](https://www.skillshare.com) - Skillshare is a learning platform with online classes taught by the world's best practitioners. 
 - [Thinkfic](https://www.thinkific.com) - Thinkfic is a powerful all-in-one platform to make it easy to create, market & sell online courses
 - [Teachable](https://teachable.com) - Teachable is an LMS or Learning management system for creating and teaching courses
+- [Udemy](https://udemy.com) - Udemy is an online learning and teaching marketplace with over 130000 courses and 35 million students.
 ### Hosted
 ## Finance
 ### Stock Market
@@ -109,8 +118,18 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Copywriting
 ### Design
 ### Development
+## Newsletter
+- [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
 ## Photo Content
 ## Podcasting
+- [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
+- [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
+- [PodBean](https://podbean.com) - Podbean is a podcast publishing and monetization service, providing free and premium hosting packages for individuals and businesses.
+- [Simplecast](https://simplecast.com) - Simplecast is an industry-leading analytics, hosting, and audience growth platform for Podcasters.
+- [Captivate](https://www.captivate.fm) -  Captivate is the world's only growth-oriented podcast host
+- [Spreaker](https://spreaker.com) - Spreaker provides you with all the tools you need to start a podcast and distribute it on Apple Podcasts, Spotify and more.
+- [Fusebox](https://fusebox.fm) - Fusebo is a powerful podcast player for your website. With Fusebox, you can encourage binge listening, drive conversion to email listing.
+- [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 ## Survey
 ## Video Content
