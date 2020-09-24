@@ -128,6 +128,14 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
 ## Photo
 ## Podcasting
+- [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
+- [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
+- [PodBean](https://podbean.com) - Podbean is a podcast publishing and monetization service, providing free and premium hosting packages for individuals and businesses.
+- [Simplecast](https://simplecast.com) - Simplecast is an industry-leading analytics, hosting, and audience growth platform for Podcasters.
+- [Captivate](https://www.captivate.fm) -  Captivate is the world's only growth-oriented podcast host
+- [Spreaker](https://spreaker.com) - Spreaker provides you with all the tools you need to start a podcast and distribute it on Apple Podcasts, Spotify and more.
+- [Fusebox](https://fusebox.fm) - Fusebo is a powerful podcast player for your website. With Fusebox, you can encourage binge listening, drive conversion to email listing.
+- [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 ## Survey
 ## Video
