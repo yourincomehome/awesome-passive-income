@@ -92,6 +92,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Helium10](https://www.helium10.com/) - Helium 10 has over 20 features that help you manage every aspect of your Amazon business.
 - [Viral Launch](https://viral-launch.com) - Viral Launch is a complete and comprehensive package of tools for Amazon FBA
 ### Print-on-demand
+- [Teespring](https://teespring.com) - Teespring is a print on demand platform to create and sell products by uploading your original designs
+- [Redbubble](https://www.redbubble.com) - Redbubble is a global online marketplace for print-on-demand products based on user-submitted artwork
+- [Printful](https://www.printful.com) - Printful is an on-demand order fulfillment and warehousing service that fulfills and ships products including clothing
 ## E-Learning
 ### Online
 ### Hosted
