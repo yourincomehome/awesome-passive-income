@@ -113,8 +113,13 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Stock Market
 ### Forex
 ### Cryptocurrency
+- [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
+- [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
+- [Kraken](https://www.kraken.com) - Kraken is a US-based cryptocurrency exchange who provides cryptocurrency to fiat trading
 ## Freelancing
 ### General
+- [Fiverr](https://www.fiverr.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
+- [Upwork](https://www.upwork.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
 ### Copywriting
 ### Design
 ### Development
