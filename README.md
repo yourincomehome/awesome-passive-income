@@ -1,6 +1,6 @@
 # Awesome Passive Income
 
-[<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://github.com/yourincomehome/awesome-passive-income)
+[<img src="https://github.com/yourincomehome/awesome-passive-income/blob/init-project/your-income-at-home-logo.jpg?raw=true">](https://github.com/yourincomehome/awesome-passive-income)
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
