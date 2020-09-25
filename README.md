@@ -135,6 +135,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [E-Trade](https://us.etrade.com) - Coinbase is a world leading digital currency exchange
 - [Interactive Brokers](https://www.interactivebrokers.com) - Interactive Brokers brokerage firm who operates the largest electronic trading platform in the U.S.
 ### Forex
+- [CMC Markets](https://www.cmcmarkets.com/) - CMC Markets is a company that offers online trading, spread betting, contracts for difference (CFDs) and foreign exchange across world markets.
+- [London Capital Group]
 ### Cryptocurrency
 - [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
 - [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
