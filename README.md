@@ -158,6 +158,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 ## Survey
+- [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
+- [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
 ## Social Media
 ## Video
 
