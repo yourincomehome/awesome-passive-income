@@ -108,6 +108,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Hosted
 ## Finance
 ### Stock Market
+- [E-Trade](https://us.etrade.com) - Coinbase is a world leading digital currency exchange
+- [Interactive Brokers](https://www.interactivebrokers.com) - Interactive Brokers brokerage firm who operates the largest electronic trading platform in the U.S.
 ### Forex
 ### Cryptocurrency
 - [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
