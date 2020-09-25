@@ -26,6 +26,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
     - [SEO](#seo)
     - [Theme](#hostedecommerce)
 - [Book Publishing](#publishing) 
+- [CRM](#crm) 
 - [Development](#photocontent)   
 - [E-Commerce](#ecommerce)
     - [Online](#onlineecommerce)
@@ -77,6 +78,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Barnes and Noble Press](https://press.barnesandnoble.com/) - Barnes & Noble Press is an self-publishing platform where independent authors can find everything to publish
 - [Audible](https://www.audible.com/) - Aubible by Amazon is a self-publishing audiobook platform
 - [Google Play Books](https://play.google.com/books) - Google Play Books
+## CRM (Customer Relationship Management)
+- [SendinBlue](https://sendinblue.com) - Sendinblue is a SaaS solution for relationship marketing which offers a cloud-based marketing communication software suite with email marketing, transactional email, marketing automation, customer-relationship management, landing pages, Facebook ads, retargeting ads, SMS marketing, and more.
+- [Hubspot](https://www.hubspot.com) - HubSpot is a leading growth marketing platform with thousands of customers around the world. Its software is composed of the Marketing Hub, Sales Hub, Service Hub, and a powerful free CRM (Customer relationship management) that empowers thousands of companies with the tools they need, to grow better and keep their customers delighted
 ## Development
 ## E-Commerce
 ### Online
@@ -103,8 +107,11 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Printify](https://printify.com/) - Printify is a transparent print on demand network, instantly connecting merchants to major Print Providers worldwide.
 ## E-Learning
 ### Online
+- [Pluralsight](https://pluralsight.com) Pluralsight, Inc. is an online education platform that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
+- [Skillshare](https://skillshare.com) Skillshare is a learning platform with online classes taught by the world's best practitioners. Personalized, on-demand learning in design, photography...
 - [Thinkfic](https://www.thinkific.com) - Thinkfic is a powerful all-in-one platform to make it easy to create, market & sell online courses
 - [Teachable](https://teachable.com) - Teachable is an LMS or Learning management system for creating and teaching courses
+- [Udemy](https://udemy.com) Udemy is a platform that allows instructors to build online courses on their preferred topics. Using Udemy's course development tools, they can upload videos, PowerPoint presentations, PDFs, audio, ZIP files and live classes to create courses.
 ### Hosted
 ## Finance
 ### Stock Market
@@ -130,8 +137,6 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
 - [Mailchimp](https://mailchimp.com) - MailChimp is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 - [ConvertKit](https://convertkit.com) - ConvertKit is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
-- [SendinBlue](https://sendinblue.com) - ConvertKit is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
-- [Hubspot](https://www.hubspot.com)
 ## Photo
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
