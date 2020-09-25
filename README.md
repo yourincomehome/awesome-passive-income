@@ -58,7 +58,13 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 
 ## Affiliation
 ### Affiliation Platform
+- [Shareasale](https://www.shareasale.com/) - Shareasale  
+- [AWIN](https://www.awin.com/)
 ### Affiliation Program
+- [Amazon Affiliates](https://affiliate-program.amazon.com) - Amazon Affiliate is an affiliate marketing program for website owners and bloggers to become Amazon Associates. 
+- [eBay Partner Network](https://partnernetwork.ebay.com) - eBay Partner Network is an eBay
+- [ClickBank](https://clickbank.com) - ClickBank
+- [CJ Affiliate](https://www.cj.com) - CJ Affiliate
 ## Audio
 ## Blogging
 ### Online
@@ -163,6 +169,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
+- [InboxDollars](https://www.inboxdollars.com) - InboxDollars is a convenient way to make some extra money online quickly by browsing and searching
 ## Social Media
 ## Video
 
