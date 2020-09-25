@@ -52,6 +52,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Podcasting](#podcasting)
 - [Real Estate](#realestate)
 - [Survey](#survey)
+- [Social Media](#social)
 - [Video](#video)
 
 
@@ -64,10 +65,13 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 - [WordPress](https://wordpress.com) - WordPress is a world leading platform for blogging
 ### Hosted
+- [Drupal](https://www.drupal.org/) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
+- [Joomla!](https://www.joomla.org/) - Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source.
+- [WordPress.org](https://wordpress.org) - WordPress is open source software you can use to create a beautiful website, blog, or app.
+### Infrastructure
 - [Bluehost](https://www.bluehost.com/track/yourincomeathome/) - Bluehost is a world leading web hosting service with over 2 million domains
 - [Hostinger](https://www.hostinger.com) - Hostinger is a well-rounded web host that boasts excellent customer service and uptime
 - [GreenGeeks](https://www.greengeeks.com) - GreenGeeks has been around 12+ years and hosts over 500,000 websites
-### Infrastructure
 ### SEO
 - [Ahrefs](https://ahrefs.com) - Ahrefs is an SEO software for link building, keyword research, competitor analysis, rank tracking and site audits
 - [SEMRush](https://semrush.com) - SEMrush is an all-in-one SEO tool for improving online visibility and discovering marketing insights. 
@@ -154,6 +158,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 ## Survey
+## Social Media
 ## Video
 
 # Resources
