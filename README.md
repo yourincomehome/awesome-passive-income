@@ -90,6 +90,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [SendinBlue](https://sendinblue.com) - Sendinblue is a SaaS solution for relationship marketing which offers a cloud-based marketing communication software suite with email marketing, transactional email, marketing automation, customer-relationship management, landing pages, Facebook ads, retargeting ads, SMS marketing, and more.
 - [Hubspot](https://www.hubspot.com) - HubSpot is a leading growth marketing platform with thousands of customers around the world. Its software is composed of the Marketing Hub, Sales Hub, Service Hub, and a powerful free CRM (Customer relationship management) that empowers thousands of companies with the tools they need, to grow better and keep their customers delighted
 ## Development
+- [CodeCanyon](https://codecanyon.net/) -  CodeCanyon is a marketplace where developpers can sell scripts and components for a variety of languages and frameworks, currently including JavaScript, PHP, ASP.NET, and Java. Items are priced on the complexity, quality and use of the file; the total price also includes a Buyer Fee.
+- [CodeGrape](https://www.codegrape.com) - CodeGrape is an online marketplace for WordPress Themes, Site Templates, Plugins, PHP Scripts, JavaScript, HTML5, .NET, Mobile Apps, Prints, Graphics...
+- [Codester](https://www.codester.com) - Codester is an online marketplace where developers and designers can buy and sell various ready-to-use web development assets. These include scripts, themes, templates, code snippets, app source codes, plugins and more.
 ## E-Commerce
 ### Online
 - [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
