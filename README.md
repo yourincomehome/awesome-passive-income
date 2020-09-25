@@ -18,6 +18,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 
 # Content
 - [Affiliation](#affiliation)
+    - [Affiliation Platform](#affiliationplatform)
+    - [Affiliation Program](#affiliationprogram)
 - [Audio](#audio)
 - [Blogging](#blogging)
     - [Online](#hostedecommerce)
@@ -54,6 +56,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 
 
 ## Affiliation
+### Affiliation Platform
+### Affiliation Program
 ## Audio
 ## Blogging
 ### Online
@@ -135,6 +139,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Development
 ## Newsletter
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
+- [SendGrid](https://sendgrid.com) - SendGrid provides a cloud-based service that assists businesses with email delivery.[7][9][20][21] The service manages various types of email including shipping notifications, friend requests, sign-up confirmations, and email newsletters.
 - [Mailchimp](https://mailchimp.com) - MailChimp is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 - [ConvertKit](https://convertkit.com) - ConvertKit is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 ## Photo
