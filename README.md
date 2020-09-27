@@ -66,6 +66,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [ClickBank](https://clickbank.com) - ClickBank
 - [CJ Affiliate](https://www.cj.com) - CJ Affiliate
 ## Audio
+- [DistroKid](https://distrokid.com)
+- [Tunecore](https://www.tunecore.com)
 ## Blogging
 ### Online
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
@@ -136,7 +138,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Interactive Brokers](https://www.interactivebrokers.com) - Interactive Brokers brokerage firm who operates the largest electronic trading platform in the U.S.
 ### Forex
 - [CMC Markets](https://www.cmcmarkets.com/) - CMC Markets is a company that offers online trading, spread betting, contracts for difference (CFDs) and foreign exchange across world markets.
-- [London Capital Group]
+- [London Capital Group](https://www.lcg.com/) - 
 ### Cryptocurrency
 - [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
 - [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
@@ -168,6 +170,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Fusebox](https://fusebox.fm) - Fusebox is a powerful podcast player for your website. With Fusebox, you can encourage binge listening, drive conversion to email listing.
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
+- [Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx) - Banrate's mortgage calculator to estimate your monthly mortgage payment
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
