@@ -68,6 +68,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Audio
 - [DistroKid](https://distrokid.com)
 - [Tunecore](https://www.tunecore.com)
+- [BeatStars](https://www.beatstars.com/) - 
 ## Blogging
 ### Online
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
@@ -151,15 +152,19 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [PeoplePerHour](https://www.peopleperhour.com) - PeoplePerHour
 - [Upwork](https://www.upwork.com) - Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
 ### Copywriting
+- [GreatContent](https://www.greatcontent.com/content-marketplace/)
 ### Design
 - [99designs](https://99designs.fr/) - 99designs is the global creative platform that makes it easy for designers and clients to work together to create designs they love.
 ### Development
+- [Gun.io](https://www.gun.io/)
 ## Newsletter
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
 - [SendGrid](https://sendgrid.com) - SendGrid provides a cloud-based service that assists businesses with email delivery. The service manages various types of email including shipping notifications, friend requests, sign-up confirmations, and email newsletters.
 - [Mailchimp](https://mailchimp.com) - MailChimp is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 - [ConvertKit](https://convertkit.com) - ConvertKit is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 ## Photo
+- [Shutterstock](https://www.shutterstock.com)
+- [iStock](https://www.istockphoto.com)
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
 - [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
