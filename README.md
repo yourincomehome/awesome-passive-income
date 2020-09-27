@@ -175,6 +175,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Fusebox](https://fusebox.fm) - Fusebox is a powerful podcast player for your website. With Fusebox, you can encourage binge listening, drive conversion to email listing.
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
+- [Airbnb](https://www.airbnb.com/)
 - [Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx) - Banrate's mortgage calculator to estimate your monthly mortgage payment
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
@@ -191,6 +192,10 @@ Below you will find a curated list of awesome resources to grow your online busi
 
 ## Books
 ## Podcasts
+- [Entrepreneurs on Fire Podcast](https://www.eofire.com/podcast)
+- [The Tim Ferriss Show](https://tim.blog/podcast)
+- [Online Marketing Made Easy](https://www.amyporterfield.com/amy-porterfield-podcast/) - with Amy Porterfield
+- [Smart Passive Income Podcast](https://www.smartpassiveincome.com/listen/) - - with Pat Flynn
 ## Videos
 
 # HOW-TOs
