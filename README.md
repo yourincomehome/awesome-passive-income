@@ -181,7 +181,10 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
 - [InboxDollars](https://www.inboxdollars.com) - InboxDollars is a convenient way to make some extra money online quickly by browsing and searching
 ## Social Media
+- [Patreon](https://www.patreon.com)
+- [uTip](https://utip.io/)
 ## Video
+- [Uscreen](https://www.uscreen.tv/)
 
 # Resources
 Below you will find a curated list of awesome resources to grow your online business
@@ -192,6 +195,10 @@ Below you will find a curated list of awesome resources to grow your online busi
 
 # HOW-TOs
 Below you will find a curated list of awesome resource to launch your online business
+
+- [How to Start a Youtube Channel](https://www.youtube.com/watch?v=bVu8OWN90eY) by Pewdiepie the Most Famous Youtuber in the World
+- [How to Become Instagram Famous](https://blog.hubspot.com/marketing/instagram-famous) from 14 People Who Did
+
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
