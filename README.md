@@ -200,6 +200,9 @@ Below you will find a curated list of awesome resource to launch your online bus
 - [How to Become Instagram Famous](https://blog.hubspot.com/marketing/instagram-famous) from 14 People Who Did
 - [100 Quotes to Have The Right Mindset](https://yourincomeathome.com/best-entrepreneur-quotes) on Your Income At Home
 - [How to Create an Online Store with Shopify](https://yourincomeathome.com/create-an-online-store/) on Your Income At Home
+- [100 Best Online Business Ideas You Can Start in 2020](https://yourincomeathome.com/business-ideas/) on Your Income At Home
+- [104+ Best Freelance Jobs Websites (2020)](https://yourincomeathome.com/best-freelance-jobs-websites) on Your Income At Home
+- [5 Best Online Businesses To Start Without Any Investment in 2020](https://yourincomeathome.com/business-without-investment/) on Your Income At Home
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
