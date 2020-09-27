@@ -198,7 +198,8 @@ Below you will find a curated list of awesome resource to launch your online bus
 
 - [How to Start a Youtube Channel](https://www.youtube.com/watch?v=bVu8OWN90eY) by Pewdiepie the Most Famous Youtuber in the World
 - [How to Become Instagram Famous](https://blog.hubspot.com/marketing/instagram-famous) from 14 People Who Did
-
+- [100 Quotes to Have The Right Mindset](https://yourincomeathome.com/best-entrepreneur-quotes) on Your Income At Home
+- [How to Create an Online Store with Shopify](https://yourincomeathome.com/create-an-online-store/) on Your Income At Home
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
