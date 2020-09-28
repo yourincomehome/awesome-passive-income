@@ -213,13 +213,31 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [StocksToTrade](https://stockstotrade.com/)
 - [TradingView](https://www.tradingview.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com) - Interactive Brokers brokerage firm who operates the largest electronic trading platform in the U.S.
+- [Metastock](https://www.metastock.com/)
+- [eSignal](https://www.esignal.com/)
+- [eToro](https://www.etoro.com/)
+- [TD Ameritrade](https://www.tdameritrade.com/)
 ### Forex
 - [CMC Markets](https://www.cmcmarkets.com/) - CMC Markets is a company that offers online trading, spread betting, contracts for difference (CFDs) and foreign exchange across world markets.
 - [London Capital Group](https://www.lcg.com/) - 
+- [Plus500](https://www.plus500.com/) -
+- [XTB Online Trading](https://www.xtb.com/) -
+- [Octafx] (https://www.octafx.com/)
+- [Activtrades](https://www.activtrades.com/)
+- [FPMarkets] (https://www.fpmarkets.com/)
 ### Cryptocurrency
 - [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
 - [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
 - [Kraken](https://www.kraken.com) - Kraken is a US-based cryptocurrency exchange who provides cryptocurrency to fiat trading
+- [Huobi Global](https://www.huobi.com/)
+- [FTX](https://ftx.com/)
+- [Kucoin](https://www.kucoin.com)
+- [Poloniex](https://poloniex.com)
+- [Bitstamp](https://www.bitstamp.net)
+- [Zaif](https://zaif.jp)
+- [Upbit](https://upbit.com/)
+- [Bitfinex](https://www.bitfinex.com)
+- [Bittrex](https://bittrex.com)
 ## Freelancing
 ### General
 - [Fiverr](https://www.fiverr.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
