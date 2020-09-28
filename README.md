@@ -222,9 +222,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [London Capital Group](https://www.lcg.com/) - 
 - [Plus500](https://www.plus500.com/) -
 - [XTB Online Trading](https://www.xtb.com/) -
-- [Octafx] (https://www.octafx.com/)
-- [Activtrades](https://www.activtrades.com/)
-- [FPMarkets] (https://www.fpmarkets.com/)
+- [Octafx](https://www.octafx.com/) -
+- [Activtrades](https://www.activtrades.com/) -
+- [FPMarkets](https://www.fpmarkets.com/) -
 ### Cryptocurrency
 - [Coinbase](https://coinbase.com) - Coinbase is a world leading digital currency exchange
 - [Binance](https://binance.com) - Binance is a cryptocurrency exchange that provides a platform for trading various cryptocurrencies
@@ -245,10 +245,25 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Toptal](https://www.toptal.com) - Toptal is a freelance website which promises companies they can hire the top 3% of global freelancers
 - [PeoplePerHour](https://www.peopleperhour.com) - PeoplePerHour
 - [Upwork](https://www.upwork.com) - Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
+- [SolidGigs](https://solidgigs.com/)
+- [Guru](https://www.guru.com/)
+- [CloudPeeps](https://www.cloudpeeps.com)
+- [Indeed](https://www.indeed.com/)
+- [College Recruiter](https://www.collegerecruiter.com)
+- [Trulancer](https://www.truelancer.com)
+- [Linkedin Profinder](https://www.linkedin.com/profinder)
 ### Copywriting
 - [GreatContent](https://www.greatcontent.com/content-marketplace/)
+- [Scripted](https://www.scripted.com/)
+- [Prozely](https://prozely.com.au/)
 ### Design
 - [99designs](https://99designs.fr/) - 99designs is the global creative platform that makes it easy for designers and clients to work together to create designs they love.
+- [DesignHill](https://www.designhill.com/) - 
+- [LogoTournament](https://logotournament.com/)
+- [DesignCrowd](https://www.designcrowd.co.in/)
+- [BrandCrowd](https://www.brandcrowd.com/)
+- [AwesomeWeb](https://www.awesomeweb.com/)
+- [Logopond](https://logopond.com/)
 ### Development
 - [Gun.io](https://www.gun.io/)
 ## Newsletter
@@ -256,9 +271,16 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [SendGrid](https://sendgrid.com) - SendGrid provides a cloud-based service that assists businesses with email delivery. The service manages various types of email including shipping notifications, friend requests, sign-up confirmations, and email newsletters.
 - [Mailchimp](https://mailchimp.com) - MailChimp is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
 - [ConvertKit](https://convertkit.com) - ConvertKit is a software which gives you the ability to create and manage mailing lists, newsletters, automated marketing campaigns
+- [GetResponse](https://www.getresponse.com/) - GetResponse is a full-suite marketing platform that offers tools including landing pages, webinars, and forms, but their most powerful tool is likely their email automation functionality.
+- [Moosend](https://moosend.com/) - Moosend is an email marketing and marketing automation platform, ideal for ecommerce businesses, agencies, publishers, and more.
+- [Aweber](https://www.aweber.com/) - Aweber built one of the first well-known autoresponder softwares, and it's still widely used and loved.
+- [Klaviyo](https://www.klaviyo.com/) - Klaviyo is well-known and loved in the e-commerce world, and they have some of the coolest email automation features, particularly for behaviorally triggered emails.
 ## Photo
 - [Shutterstock](https://www.shutterstock.com)
 - [iStock](https://www.istockphoto.com)
+- [Adobe Stock](https://stock.adobe.com)
+- [Alamy](https://www.alamy.com)
+- [PhotoShelter](https://www.photoshelter.com)
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
 - [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
