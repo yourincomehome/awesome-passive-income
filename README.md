@@ -197,6 +197,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Redbubble](https://www.redbubble.com) - Redbubble is a global online marketplace for print-on-demand products based on user-submitted artwork
 - [Printful](https://www.printful.com) - Printful is an on-demand order fulfillment and warehousing service that fulfills and ships products including clothing
 - [Printify](https://printify.com/) - Printify is a transparent print on demand network, instantly connecting merchants to major Print Providers worldwide.
+- [Teepublic](https://www.teepublic.com/)
+- [Zazzle](https://www.zazzle.com/)
 ## E-Learning
 ### Online
 - [Pluralsight](https://pluralsight.com) Pluralsight, Inc. is an online education platform that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
@@ -208,6 +210,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ## Finance
 ### Stock Market
 - [E-Trade](https://us.etrade.com) - Coinbase is a world leading digital currency exchange
+- [StocksToTrade](https://stockstotrade.com/)
+- [TradingView](https://www.tradingview.com/)
 - [Interactive Brokers](https://www.interactivebrokers.com) - Interactive Brokers brokerage firm who operates the largest electronic trading platform in the U.S.
 ### Forex
 - [CMC Markets](https://www.cmcmarkets.com/) - CMC Markets is a company that offers online trading, spread betting, contracts for difference (CFDs) and foreign exchange across world markets.
