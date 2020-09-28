@@ -58,56 +58,113 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 
 ## Affiliation
 ### Affiliation Platform
-- [Shareasale](https://www.shareasale.com/) - Shareasale  
-- [AWIN](https://www.awin.com/)
+- [Shareasale](https://www.shareasale.com/) - ShareASale is an affiliate marketing network based in the River North neighborhood in Chicago, IL USA. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant.
+- [AWIN](https://www.awin.com/) - Awin is a global affiliate network made up of 230,000 contributing publishers and 16,500 advertisers
+- [Rakuten Marketing](https://rakutenadvertising.com/) - Rakuten Marketing is a popular affiliate network that includes a lot of big merchants.
+- [Avangate Affiliate Network](https://www.avangatenetwork.com) - Avangate Affiliate Network is an affiliate network that’s focused on digital goods and software, rather than physical products. 
+- [Peerfly](https://peerfly.com) - Peerfly is a rapidly growing affiliate network that gets you access to 3,300+ merchants.
 ### Affiliation Program
 - [Amazon Affiliates](https://affiliate-program.amazon.com) - Amazon Affiliate is an affiliate marketing program for website owners and bloggers to become Amazon Associates. 
 - [eBay Partner Network](https://partnernetwork.ebay.com) - eBay Partner Network is an eBay
-- [ClickBank](https://clickbank.com) - ClickBank
-- [CJ Affiliate](https://www.cj.com) - CJ Affiliate
+- [ClickBank](https://clickbank.com) - ClickBank is an affiliate network that has a lot of digital products, though it also offers physical products as well.
+- [CJ Affiliate](https://www.cj.com) - CJ Affiliate is another affiliate network that brings together thousands of different merchants under one roof (a lot like ShareASale).
+- [FlexOffers](https://www.flexoffers.com) - FlexOffers is a long-standing, popular affiliate platform that gets you access to 12,000+ different advertisers/merchants.
 ## Audio
+- [AWAL](https://www.awal.com/) - 
+- [Amuse.io](https://www.amuse.io/)
 - [DistroKid](https://distrokid.com)
 - [Tunecore](https://www.tunecore.com)
-- [BeatStars](https://www.beatstars.com/) - 
+- [BeatStars](https://www.beatstars.com/) -
+- [Soundcloud](https://soundcloud.com/)
+- [Spotify](https://www.spotify.com/)
+- [CD Baby](https://cdbaby.com/) - 
+- [ReverbNation](https://www.reverbnation.com/) - 
+- [FreshTunes](https://freshtunes.com) - 
+- [Spinnup](https://spinnup.com) - 
+- [Airbit]()
 ## Blogging
 ### Online
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 - [WordPress](https://wordpress.com) - WordPress is a world leading platform for blogging
+- [Blogger](https://www.blogger.com) -
+- [Medium](https://medium.com) -
+- [Squarespace](https://squarespace.com/) -
+- [Ghost](https://ghost.org) -
+- [Weebly](https://www.weebly.com/) -
+- [Strikingly](https://www.strikingly.com/) - 
+- [123Site](https://app.site123.com/) - 
+- [Tumblr](https://www.tumblr.com/) -
+- [Yola](https://www.yola.com/) -
+- [Penzu](https://penzu.com/) -
 ### Hosted
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
+- [Magento](https://magento.com/) -
 - [Joomla!](https://www.joomla.org/) - Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source.
 - [WordPress.org](https://wordpress.org) - WordPress is open source software you can use to create a beautiful website, blog, or app.
 ### Infrastructure
 - [Bluehost](https://www.bluehost.com/track/yourincomeathome/) - Bluehost is a world leading web hosting service with over 2 million domains
 - [Hostinger](https://www.hostinger.com) - Hostinger is a well-rounded web host that boasts excellent customer service and uptime
 - [GreenGeeks](https://www.greengeeks.com) - GreenGeeks has been around 12+ years and hosts over 500,000 websites
+- [GoDaddy](https://www.godaddy.com) -
+- [Interserver](https://www.interserver.net) - 
+- [Network Solutions](https://www.networksolutions.com) -
+- [Dreamhost](https://www.dreamhost.com) - 
+- [Register.com](https://www.register.com) -
+- [Inmotion](https://www.inmotionhosting.com) - 
+- [Hostgator](https://www.hostgator.com) -
+- [Tsohost](https://www.tsohost.com) -
+- [iPage](https://www.ipage.com) -
+- [Wp-Engine](https://wpengine.com/) -
+- [Scala Hosting](https://www.scalahosting.com) -
 ### SEO
 - [Ahrefs](https://ahrefs.com) - Ahrefs is an SEO software for link building, keyword research, competitor analysis, rank tracking and site audits
 - [SEMRush](https://semrush.com) - SEMrush is an all-in-one SEO tool for improving online visibility and discovering marketing insights. 
 - [Growthbar](https://www.growthmarketingpro.com/growthbar) - GrowthBar is the #1 Rated Google Chrome Plugin for SEO
+- [Majestic](https://majestic.com/) -
+- [Moz](https://moz.com/) - 
+- [Spyfu](https://www.spyfu.com/) -
+- [Google Search Console](https://search.google.com/search-console/about) -
+- [KWFinder](https://kwfinder.com/) - 
+- [Ubersuggest by  Neil Patel](https://neilpatel.com/fr/ubersuggest/) - 
+- [Answer The Public](https://answerthepublic.com/)
 ### Theme
 - [ElegantThemes](https://www.elegantthemes.com) - Elegant Themes has DIVI the most popular WordPress Theme
 - [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
 - [Wordpress.org](https://wordpress.org/themes/) - Wordpress.org has over 7000 themes for free
+- [TemplateMonster](https://www.templatemonster.com/)
+- [Mojo Marketplace](https://www.mojomarketplace.com/)
+- [ThemeSnap](https://themesnap.com/) - ThemeSnap is a marketplace for WordPress and Drupal themes as well as HTML templates
+- [CreativeMarket](https://creativemarket.com/) - 
+- [aThemes](https://athemes.com/)
 ## Book Publishing
 - [Amazon Kindle Direct Publishing](https://kdp.amazon.com) - KDP by Amazon is the best self-publishing service in the world
 - [Apple Books](https://www.apple.com/apple-books) - Apple Books is an e-book reading and store application by Apple
 - [Barnes and Noble Press](https://press.barnesandnoble.com/) - Barnes & Noble Press is an self-publishing platform where independent authors can find everything to publish
 - [Audible](https://www.audible.com/) - Aubible by Amazon is a self-publishing audiobook platform
 - [Google Play Books](https://play.google.com/books) - Google Play Books
+- [Lulu](https://www.lulu.com/)
+- [Blurb](https://www.blurb.com/)
+- [Bookbaby](https://www.bookbaby.com/)
 ## CRM (Customer Relationship Management)
 - [SendinBlue](https://sendinblue.com) - Sendinblue is a SaaS solution for relationship marketing which offers a cloud-based marketing communication software suite with email marketing, transactional email, marketing automation, customer-relationship management, landing pages, Facebook ads, retargeting ads, SMS marketing, and more.
 - [Hubspot](https://www.hubspot.com) - HubSpot is a leading growth marketing platform with thousands of customers around the world. Its software is composed of the Marketing Hub, Sales Hub, Service Hub, and a powerful free CRM (Customer relationship management) that empowers thousands of companies with the tools they need, to grow better and keep their customers delighted
+- [Salesforce](https://www.salesforce.com/) -
+- [Zoho](https://www.zoho.com/) -
+- [Pipedrive](https://www.pipedrive.com/) -
+- [Monday.com](https://monday.com/) - 
 ## Development
 - [CodeCanyon](https://codecanyon.net/) -  CodeCanyon is a marketplace where developpers can sell scripts and components for a variety of languages and frameworks, currently including JavaScript, PHP, ASP.NET, and Java. Items are priced on the complexity, quality and use of the file; the total price also includes a Buyer Fee.
 - [CodeGrape](https://www.codegrape.com) - CodeGrape is an online marketplace for WordPress Themes, Site Templates, Plugins, PHP Scripts, JavaScript, HTML5, .NET, Mobile Apps, Prints, Graphics...
 - [Codester](https://www.codester.com) - Codester is an online marketplace where developers and designers can buy and sell various ready-to-use web development assets. These include scripts, themes, templates, code snippets, app source codes, plugins and more.
+- [Sell My App](https://www.sellmyapp.com/)
 ## E-Commerce
 ### Online
 - [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
 - [Bigcommerce](https://bigcommerce.com) - BigCommerce is a public technology company and provides a SaaS ecommerce platform.
 - [3dcart](https://www.3dcart.com/) - 3dcart is an established, industry leading and robust e-commerce software platform that was founded already back in 1997.
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
+- [Square](https://squareup.com/us/en/online-store) - 
+- [Poshmark](https://poshmark.com/)
 ### Hosted
 - [Magento](https://www.prestashop.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
 - [PrestaShop](https://www.prestashop.com) - PrestaShop is a freemium, open source e-commerce solution. The software is published under the Open Software License (OSL).
@@ -195,8 +252,10 @@ Below you will find a curated list of awesome resources to grow your online busi
 - [Entrepreneurs on Fire Podcast](https://www.eofire.com/podcast)
 - [The Tim Ferriss Show](https://tim.blog/podcast)
 - [Online Marketing Made Easy](https://www.amyporterfield.com/amy-porterfield-podcast/) - with Amy Porterfield
-- [Smart Passive Income Podcast](https://www.smartpassiveincome.com/listen/) - - with Pat Flynn
+- [Smart Passive Income Podcast](https://www.smartpassiveincome.com/listen/) - with Pat Flynn
 ## Videos
+- [Your Income At Home](https://www.youtube.com/channel/UCuTk3DSvBRZqQ4rGy_HuPVQ) YouTube Channel of Your Income At Home
+- [Marko - WhiteBoard Finance](https://www.youtube.com/channel/UCL_v4tC26PvOFytV1_eEVSg) Finance YouTube Channel
 
 # HOW-TOs
 Below you will find a curated list of awesome resource to launch your online business
