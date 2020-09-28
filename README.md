@@ -127,6 +127,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [KWFinder](https://kwfinder.com/) - 
 - [Ubersuggest by  Neil Patel](https://neilpatel.com/fr/ubersuggest/) - 
 - [Answer The Public](https://answerthepublic.com/)
+- [Google Trends](https://trends.google.com/trends/?geo=US) -
 ### Theme
 - [ElegantThemes](https://www.elegantthemes.com) - Elegant Themes has DIVI the most popular WordPress Theme
 - [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
@@ -157,6 +158,8 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [CodeGrape](https://www.codegrape.com) - CodeGrape is an online marketplace for WordPress Themes, Site Templates, Plugins, PHP Scripts, JavaScript, HTML5, .NET, Mobile Apps, Prints, Graphics...
 - [Codester](https://www.codester.com) - Codester is an online marketplace where developers and designers can buy and sell various ready-to-use web development assets. These include scripts, themes, templates, code snippets, app source codes, plugins and more.
 - [Sell My App](https://www.sellmyapp.com/)
+- [GitMarket](https://git.market/)
+- [I Build App](https://ibuildapp.com/)
 ## E-Commerce
 ### Online
 - [Shopify](https://www.shopify.com) - Shopify offers online retailers a suite of services "including payments, marketing, shipping and customer engagement tools to simplify the process of running an online store for small merchants.
@@ -165,6 +168,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 - [Square](https://squareup.com/us/en/online-store) - 
 - [Poshmark](https://poshmark.com/)
+- [Etsy](https://www.etsy.com/fr/)
+- [Volusion](https://www.volusion.com/v1/)
+- [Bigcartel](https://www.bigcartel.com/)
 ### Hosted
 - [Magento](https://www.prestashop.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
 - [PrestaShop](https://www.prestashop.com) - PrestaShop is a freemium, open source e-commerce solution. The software is published under the Open Software License (OSL).
@@ -173,10 +179,19 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 ### Dropshipping
 - [Adspy](https://www.adspy.com) - AdSpy is the largest searchable database of Facebook and Instagram ads in the world
 - [Dsers](https://www.dsers.com) - Automation order management with tech solutionwww.dsers.com
+- [Oberlo](https://www.oberlo.com)
+- [Aliexpress](https://www.aliexpress.com/)
+- [Spocket](https://www.spocket.co/)
+- [Dropified](https://www.dropified.com/)
+- [Sell The Trend](https://www.sellthetrend.com/)
+- [Glorify](https://www.glorifyapp.com/)
 ### Amazon FBA
 - [JungleScout](https://www.junglescout.com) - JungleScout is an all-in-one platform for selling on Amazon FBA
 - [Helium10](https://www.helium10.com/) - Helium 10 has over 20 features that help you manage every aspect of your Amazon business.
 - [Viral Launch](https://viral-launch.com) - Viral Launch is a complete and comprehensive package of tools for Amazon FBA
+- [SellerApp](https://www.sellerapp.com/) - 
+- [AMZScout](https://amzscout.net/) -
+- [IO Scout](https://ioscout.io/)
 ### Print-on-demand
 - [Teespring](https://teespring.com) - Teespring is a print on demand platform to create and sell products by uploading your original designs
 - [Redbubble](https://www.redbubble.com) - Redbubble is a global online marketplace for print-on-demand products based on user-submitted artwork
