@@ -70,28 +70,27 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [CJ Affiliate](https://www.cj.com) - CJ Affiliate is another affiliate network that brings together thousands of different merchants under one roof (a lot like ShareASale).
 - [FlexOffers](https://www.flexoffers.com) - FlexOffers is a long-standing, popular affiliate platform that gets you access to 12,000+ different advertisers/merchants.
 ## Audio
-- [AWAL](https://www.awal.com/) - 
-- [Amuse.io](https://www.amuse.io/)
-- [DistroKid](https://distrokid.com)
-- [Tunecore](https://www.tunecore.com)
-- [BeatStars](https://www.beatstars.com/) -
-- [Soundcloud](https://soundcloud.com/)
-- [Spotify](https://www.spotify.com/)
-- [CD Baby](https://cdbaby.com/) - 
-- [ReverbNation](https://www.reverbnation.com/) - 
-- [FreshTunes](https://freshtunes.com) - 
-- [Spinnup](https://spinnup.com) - 
-- [Airbit]()
+- [AWAL](https://www.awal.com/) - AWAL is an independent record label and a distribution company with headquarters in London
+- [Amuse.io](https://www.amuse.io/) - Amuse.io is a tool that allows you to upload your music to services
+- [DistroKid](https://distrokid.com) - DistroKid is a service for musicians that puts your music into online stores & streaming services
+- [Tunecore](https://www.tunecore.com) - TuneCore is a Brooklyn, New York–based independent digital music distribution, publishing, and licensing service founded in 2005
+- [BeatStars](https://www.beatstars.com/) - BeatStars is a digital production marketplace that allows music producers to license and sell beats and give away free beats
+- [Soundcloud](https://soundcloud.com/) - SoundCloud is an online audio distribution platform and music sharing website based in Berlin, Germany
+- [Spotify](https://www.spotify.com/) - Spotify is a digital music service that gives you access to millions of songs
+- [CD Baby](https://cdbaby.com/) - CD Baby is the only digital aggregator with top preferred partner status with both Spotify and Apple Music
+- [ReverbNation](https://www.reverbnation.com/) - ReverbNation helps Artists grow lasting careers by introducing them to music industry partners, exposing them to fans
+- [FreshTunes](https://freshtunes.com) - FreshTunes, a brand new digital music distribution service has entered the market and is set to disrupt the sector with a unique offering for the world's independent artists
+- [Spinnup](https://spinnup.com) - Spinnup is a signed distribution platform that offers an aggregator service to musicians and artist who are not signed to major labels
+- [Airbit](https://airbit.com/) - Airbit provide a platform for the Producers to sell their Beats. As a purchaser, your contractual relationship relating to Beats is with the licensor or seller of Beats and not with Airbit.
 ## Blogging
 ### Online
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 - [WordPress](https://wordpress.com) - WordPress is a world leading platform for blogging
-- [Blogger](https://www.blogger.com) -
-- [Medium](https://medium.com) -
-- [Squarespace](https://squarespace.com/) -
-- [Ghost](https://ghost.org) -
-- [Weebly](https://www.weebly.com/) -
-- [Strikingly](https://www.strikingly.com/) - 
+- [Blogger](https://www.blogger.com) - Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries.
+- [Medium](https://medium.com) - Medium is an online publishing platform developed as an example of social journalism, having a hybrid collection of amateur and professional people
+- [Squarespace](https://squarespace.com/) - Squarespace provides software as a service for website building and hosting, and allows users to use pre-built website templates and drag-and-drop elements to create and modify webpages.
+- [Ghost](https://ghost.org) - Ghost is a free and open source blogging platform designed to simplify the process of online publishing for individual bloggers as well as online publications.
+- [Strikingly](https://www.strikingly.com/) - Strikingly is a website builder that allows the user, with little or no development experience, to create mobile optimized websites “within minutes”
 - [123Site](https://app.site123.com/) - 
 - [Tumblr](https://www.tumblr.com/) -
 - [Yola](https://www.yola.com/) -
@@ -116,6 +115,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [iPage](https://www.ipage.com) -
 - [Wp-Engine](https://wpengine.com/) -
 - [Scala Hosting](https://www.scalahosting.com) -
+- [Weebly](https://www.weebly.com/) -
 ### SEO
 - [Ahrefs](https://ahrefs.com) - Ahrefs is an SEO software for link building, keyword research, competitor analysis, rank tracking and site audits
 - [SEMRush](https://semrush.com) - SEMrush is an all-in-one SEO tool for improving online visibility and discovering marketing insights. 
