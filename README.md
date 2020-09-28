@@ -281,6 +281,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Adobe Stock](https://stock.adobe.com)
 - [Alamy](https://www.alamy.com)
 - [PhotoShelter](https://www.photoshelter.com)
+- [Can Stock Photo](https://www.canstockphoto.com/)
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
 - [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
@@ -292,16 +293,31 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
 - [Airbnb](https://www.airbnb.com/)
+- [Zillow](https://www.zillow.com/)
+- [Realtor.com](https://www.realtor.com/)
+- [Redfin](https://www.redfin.com/)
+- [Trulia](https://www.trulia.com/)
+- [Foreclosure](https://www.foreclosure.com/)
+- [FSBO](https://fsbo.com/)
+- [Apartments.com](https://www.apartments.com/)
 - [Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx) - Banrate's mortgage calculator to estimate your monthly mortgage payment
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
 - [InboxDollars](https://www.inboxdollars.com) - InboxDollars is a convenient way to make some extra money online quickly by browsing and searching
+- [SurveyPlanet](https://surveyplanet.com/) - 
+- [Typeform](https://www.typeform.com/) -
+- [SurveyMonkey](https://www.surveymonkey.com/) -
+- [LimeSurvey](https://www.limesurvey.org)
+- [QuickTapSurvey](https://www.quicktapsurvey.com/)
 ## Social Media
 - [Patreon](https://www.patreon.com)
 - [uTip](https://utip.io/)
+- [Instagram](https://www.instagram.com/)
 ## Video
 - [Uscreen](https://www.uscreen.tv/)
+- [YouTube](https://www.youtube.com/)
+- [Twitch](https://www.twitch.tv/)
 
 # Resources
 Below you will find a curated list of awesome resources to grow your online business
