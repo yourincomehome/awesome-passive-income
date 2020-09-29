@@ -253,14 +253,12 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Scripted](https://www.scripted.com/) - Scripted helps you to work with thousands of professional copywriters to increase website traffic
 ### Design
 - [99designs](https://99designs.fr/) - 99designs is the global creative platform that makes it easy for designers and clients to work together to create designs they love.
-- [DesignHill](https://www.designhill.com/) - 
-- [LogoTournament](https://logotournament.com/)
-- [DesignCrowd](https://www.designcrowd.co.in/)
-- [BrandCrowd](https://www.brandcrowd.com/)
-- [AwesomeWeb](https://www.awesomeweb.com/)
-- [Logopond](https://logopond.com/)
+- [DesignHill](https://www.designhill.com/) - Designhill is an online platform that allows Customers that have specific design needs to run Design Contests
+- [LogoTournament](https://logotournament.com/) - LogoTournament is an online community that allows clients to run logo design contests
+- [BrandCrowd](https://www.brandcrowd.com/) - BrandCrowd is an online logo maker for businesses. Including thousands of customizable logo templates as matching business cards, social media banners, branded merchandise, and more.
 ### Development
-- [Gun.io](https://www.gun.io/)
+- [Gun.io](https://www.gun.io/) - Gun.io is the first software development platform that helps fast-growing companies build custom engineering teams.
+- [AwesomeWeb](https://www.awesomeweb.com/) - AwesomeWeb is a professional freelance marketplace for people who do and need quality work.
 ## Newsletter
 - [Substack](https://substack.com) - Substack is an email newsletter platform designed for small publishers hoping to turn their subscribers into paying customers.
 - [SendGrid](https://sendgrid.com) - SendGrid provides a cloud-based service that assists businesses with email delivery. The service manages various types of email including shipping notifications, friend requests, sign-up confirmations, and email newsletters.
@@ -271,12 +269,12 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Aweber](https://www.aweber.com/) - Aweber built one of the first well-known autoresponder softwares, and it's still widely used and loved.
 - [Klaviyo](https://www.klaviyo.com/) - Klaviyo is well-known and loved in the e-commerce world, and they have some of the coolest email automation features, particularly for behaviorally triggered emails.
 ## Photo
-- [Shutterstock](https://www.shutterstock.com)
-- [iStock](https://www.istockphoto.com)
-- [Adobe Stock](https://stock.adobe.com)
-- [Alamy](https://www.alamy.com)
-- [PhotoShelter](https://www.photoshelter.com)
-- [Can Stock Photo](https://www.canstockphoto.com/)
+- [Shutterstock](https://www.shutterstock.com) - Shutterstock is an American provider of stock photography, stock footage, stock music, and editing tools
+- [iStock](https://www.istockphoto.com) - iStock is an online royalty free, international micro stock photography provider based in Calgary, Alberta, Canada
+- [Adobe Stock](https://stock.adobe.com) - Adobe Stock is a stock photo service by Adobe, that is seamlessly integrated into their Creative Cloud platform.
+- [Alamy](https://www.alamy.com) - Alamy (registered as Alamy Limited) is a British privately owned stock photography agency
+- [PhotoShelter](https://www.photoshelter.com) - PhotoShelter is a premium website builder designed and created specifically for professional photographers who are looking to grow their base
+- [Can Stock Photo](https://www.canstockphoto.com/) - Can Stock Photo is a stock photography provider which licenses royalty-free images, photos, digital illustrations
 ## Podcasting
 - [Buzzsprout](https://buzzprout.com) - Buzzsprout has helped over 100,000 people start their own podcast. With Buzzprout, you can easily to host, promote, & track your podcast! 
 - [Transistor](https://transistor.fm/) - Transistor.fm helps to create unlimited podcasts for one monthly price. Invite team members, see your podcast's stats, and distribute to Apple Podcasts, Spotify, Google Podcasts.
@@ -287,34 +285,30 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Fusebox](https://fusebox.fm) - Fusebox is a powerful podcast player for your website. With Fusebox, you can encourage binge listening, drive conversion to email listing.
 - [Audioboom](https://audioboom.com) - AudioBoom is an on-demand audio and podcasting distribution platform. AudioBoom offers business-to-business services to the radio, media and podcast industries. 
 ## Real Estate
-- [Airbnb](https://www.airbnb.com/)
-- [Zillow](https://www.zillow.com/)
-- [Realtor.com](https://www.realtor.com/)
-- [Redfin](https://www.redfin.com/)
-- [Trulia](https://www.trulia.com/)
-- [Foreclosure](https://www.foreclosure.com/)
-- [FSBO](https://fsbo.com/)
-- [Apartments.com](https://www.apartments.com/)
+- [Airbnb](https://www.airbnb.com/) - Airbnb is an American vacation rental online marketplace company based in San Francisco, California
+- [Zillow](https://www.zillow.com/) - Zillow is the leading real estate and rental marketplace dedicated to empowering consumers with data
+- [Realtor.com](https://www.realtor.com/) - Realtor.com is a real estate listings website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California
+- [Redfin](https://www.redfin.com/) - Redfin is a real estate brokerage. The Seattle-based company was founded in 2004, and went public
+- [Trulia](https://www.trulia.com/) - Trulia is an American home and neighborhood site which is a subsidiary of Zillow. It facilitates buyers and renters to find homes
+- [FSBO](https://fsbo.com/) - FSBO.com is the most popular global For Sale By Owner Real Estate site on the Web.
+- [Apartments.com](https://www.apartments.com/) - Apartments.com is the leading online apartment listing website, offering renters access to information on more than 1,000,000 available units for rent
 - [Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx) - Banrate's mortgage calculator to estimate your monthly mortgage payment
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
 - [InboxDollars](https://www.inboxdollars.com) - InboxDollars is a convenient way to make some extra money online quickly by browsing and searching
-- [SurveyPlanet](https://surveyplanet.com/) - 
-- [Typeform](https://www.typeform.com/) -
-- [SurveyMonkey](https://www.surveymonkey.com/) -
-- [LimeSurvey](https://www.limesurvey.org)
-- [QuickTapSurvey](https://www.quicktapsurvey.com/)
+- [SurveyPlanet](https://surveyplanet.com/) - SurveyPlanet is on-demand software for creating surveys and collecting survey results in the cloud.
+- [Typeform](https://www.typeform.com/) - Typeform makes collecting and sharing information comfortable and conversational. It's a web based platform you can use to create anything from surveys to apps, without needing to write a single line of code
+- [SurveyMonkey](https://www.surveymonkey.com/) - SVMK Inc., doing business as SurveyMonkey, is an online survey development cloud-based software as a service company. 
 ## Social Media
-- [Patreon](https://www.patreon.com)
-- [uTip](https://utip.io/)
-- [Instagram](https://www.instagram.com/)
+- [Patreon](https://www.patreon.com) - Patreon is a membership platform based that provides business tools for creators to run a subscription content service.
+- [Instagram](https://www.instagram.com/) - Instagram is an American photo and video sharing social networking service owned by Facebook
 ## Video
-- [Uscreen](https://www.uscreen.tv/)
-- [YouTube](https://www.youtube.com/)
-- [Twitch](https://www.twitch.tv/)
-- [Tiktok]
-- [Vimeo]
+- [Uscreen](https://www.uscreen.tv/) - Uscreen is a platform that lets businesses create their very own video streaming and subscription channels they can use to sell content. 
+- [YouTube](https://www.youtube.com/) - YouTube is an American online video-sharing platform headquartered in San Bruno, California.
+- [Twitch](https://www.twitch.tv/) - Twitch is a video live streaming service operated by Twitch Interactive, a subsidiary of Amazon
+- [TikTok](https://www.tiktok.com/) - TikTok, known in China as Douyin is a Chinese video-sharing social networking service owned by ByteDance
+- [Vimeo](https://vimeo.com/) - Vimeo is an American video hosting, sharing, and services platform headquartered in New York City.
 
 # Resources
 Below you will find a curated list of awesome resources to grow your online business
