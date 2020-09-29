@@ -97,7 +97,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Penzu](https://penzu.com/) - Penzu is an online diary-hosting website. Users can create written entries similar to a standard personal journal and can also upload photos from their devices.
 ### Hosted
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
-- [Magento](https://magento.com/) -
+- [Magento](https://magento.com/) - Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony. Magento source code is distributed under Open Software License (OSL) v3.0. 
 - [Joomla!](https://www.joomla.org/) - Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source.
 - [WordPress.org](https://wordpress.org) - WordPress is open source software you can use to create a beautiful website, blog, or app.
 ### Infrastructure
