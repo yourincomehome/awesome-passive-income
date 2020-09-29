@@ -314,9 +314,18 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 Below you will find a curated list of awesome resources to grow your online business
 
 ## Books
+- [How to Win Friends and Influence People](https://www.amazon.com/dp/B08H8BXYX5/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Dale Carnegie
+- [Rich Dad, Poor Dad](https://www.amazon.com/dp/B07C7M8SX9/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Robert Kiyosaki and Sharon Lechter
+- [The 4-Hour Workweek](https://www.amazon.com/dp/B006X0M2TS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Timothy Ferriss
+- [Zero to One: Notes on Start Ups, or How to Build the Future](https://www.amazon.com/dp/B00KHX0II4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Blake Masters and Peter Thiel
+- [Think And Grow Rich](https://www.amazon.com/dp/B079F2CZTY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Napoleon Hill
+- [I Will Teach You to Be Rich](https://www.amazon.com/dp/B003M5IA8E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Ramit Sethi
+- [Crush It!](https://www.amazon.com/dp/B0029ZA3H4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Gary Vaynerchuk
+- [The 7 Habits of Highly Effective People](https://www.amazon.com/dp/B00GOZV3TM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Stephen Covey
+- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation](https://www.amazon.com/dp/B004J4XGN6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - by Eric Ries
 ## Podcasts
-- [Entrepreneurs on Fire Podcast](https://www.eofire.com/podcast)
-- [The Tim Ferriss Show](https://tim.blog/podcast)
+- [Entrepreneurs on Fire Podcast](https://www.eofire.com/podcast) - with John Lee Dumas
+- [The Tim Ferriss Show](https://tim.blog/podcast) - with Timothy Ferriss
 - [Online Marketing Made Easy](https://www.amyporterfield.com/amy-porterfield-podcast/) - with Amy Porterfield
 - [Smart Passive Income Podcast](https://www.smartpassiveincome.com/listen/) - with Pat Flynn
 ## Videos
