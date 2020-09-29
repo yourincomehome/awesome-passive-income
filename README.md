@@ -170,7 +170,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Volusion](https://www.volusion.com/v1/) - Volusion is a complete e-commerce website builder that offers web design, marketing and other business tools
 - [BigCartel](https://www.bigcartel.com/) - Big Cartel is home to over a million makers, designers, musicians, and other artists.
 ### Hosted
-- [Magento](https://www.prestashop.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
+- [Magento](https://www.magento.com) - Magento is an open-source e-commerce platform. Magento source code is distributed under Open Software License (OSL) v3.0.
 - [PrestaShop](https://www.prestashop.com) - PrestaShop is a freemium, open source e-commerce solution. The software is published under the Open Software License (OSL).
 - [OpenCart](https://www.opencart.com) - OpenCart is an online store management system. It is freely available under the GNU General Public License.
 - [WooCommerce](https://www.woocommerce.com) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress. 
