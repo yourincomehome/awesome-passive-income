@@ -204,6 +204,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Thinkfic](https://www.thinkific.com) - Thinkfic is a powerful all-in-one platform to make it easy to create, market & sell online courses
 - [Teachable](https://teachable.com) - Teachable is an LMS or Learning management system for creating and teaching courses
 - [Udemy](https://udemy.com) Udemy is a platform that allows instructors to build online courses on their preferred topics. Using Udemy's course development tools, they can upload videos, PowerPoint presentations, PDFs, audio, ZIP files and live classes to create courses.
+- [OpenClaw](https://openclawapp.netlify.app/) OpenClaw teaches consultants and solopreneurs to build AI employee systems with multi-agent orchestration. Course covers automation, prompting, and building autonomous workflows to generate passive income streams.
 ### Hosted
 ## Finance
 ### Stock Market
