@@ -234,6 +234,9 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Bitstamp](https://www.bitstamp.net) - Bitstamp is a bitcoin exchange based in Luxembourg. It allows trading between USD currency and bitcoin cryptocurrency. It allows USD, EUR, bitcoin, XRP, ethereum, litecoin, or bitcoin cash deposits and withdrawals.
 - [Upbit](https://upbit.com/) - Upbit is a South Korean cryptocurrency exchange.It was founded in 2017.[1]
 - [Bitfinex](https://www.bitfinex.com) - Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers.
+## AI Skills & Personas
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities.
+
 ## Freelancing
 ### General
 - [Fiverr](https://www.fiverr.com) - Fiverr is an online marketplace for freelancers to offer services to customers worldwide
