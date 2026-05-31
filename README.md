@@ -215,6 +215,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [eSignal](https://www.esignal.com/) - eSignal is a Windows-based application, uses JavaScript as the basis for the scripting language that programmers and traders can use for building custom indicators. 
 - [eToro](https://www.etoro.com/) - eToro is a social trading and multi-asset brokerage company that focuses on providing financial and copy trading services.
 - [TD Ameritrade](https://www.tdameritrade.com/) - TD Ameritrade is a broker that offers an electronic trading platform for the trade of financial assets including common stocks, preferred stocks, futures contracts, exchange-traded funds, options, cryptocurrency, mutual funds, and fixed income investments
+- [YIELD INTELLIGENCE](https://thebrierfox.github.io/yield-intelligence/) - AI-powered passive income research tool — live US Treasury yield curve, dividend ETF analysis, REIT yields, and portfolio income optimizer.
 ### Forex
 - [CMC Markets](https://www.cmcmarkets.com/) - CMC Markets is a company that offers online trading, spread betting, contracts for difference (CFDs) and foreign exchange across world markets.
 - [London Capital Group](https://www.lcg.com/) - London Capital Group (LCG), founded in 1996, has continued to keep pace in the highly competitive and ever-changing online brokerage
