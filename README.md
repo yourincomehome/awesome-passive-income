@@ -84,6 +84,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Airbit](https://airbit.com/) - Airbit provide a platform for the Producers to sell their Beats. As a purchaser, your contractual relationship relating to Beats is with the licensor or seller of Beats and not with Airbit.
 ## Blogging
 ### Online
+- [HustlePathDaily] (https://hustlepathdaily.com) - HustlePath Daily is a beginner-focused blog covering online income strategies, Pinterest marketing, and side hustles. Particularly strong on Pinterest SEO and batch pin creation workflows. No hype — practical, step-by-step.
 - [Wix](https://wix.com) - Wix is a cloud-based solution for building your website 
 - [WordPress](https://wordpress.com) - WordPress is a world leading platform for blogging
 - [Blogger](https://www.blogger.com) - Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries.
