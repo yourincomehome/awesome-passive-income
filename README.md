@@ -128,6 +128,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [Ubersuggest by  Neil Patel](https://neilpatel.com/fr/ubersuggest/) - Ubersuggest is a free SEO tool that specializes in generating new keyword ideas
 - [Answer The Public](https://answerthepublic.com/) - Answer The Public is a keyword tool that visualizes search questions and suggested autocomplete searches in an image called a search cloud
 - [Google Trends](https://trends.google.com/trends/?geo=US) - Google Trends is a search trends feature that shows how frequently a given search term is entered into Google's search engine
+- [Screpy](https://screpy.com/) - AI-assisted SEO platform for website audits, rank tracking, Core Web Vitals, and ongoing site monitoring.
 ### Theme
 - [ElegantThemes](https://www.elegantthemes.com) - Elegant Themes has DIVI the most popular WordPress Theme
 - [Envato Market](https://themeforest.net) - Envato Market is a marketplace with thousands of WordPress themes and website templates
