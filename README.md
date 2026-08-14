@@ -293,6 +293,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [FSBO](https://fsbo.com/) - FSBO.com is the most popular global For Sale By Owner Real Estate site on the Web.
 - [Apartments.com](https://www.apartments.com/) - Apartments.com is the leading online apartment listing website, offering renters access to information on more than 1,000,000 available units for rent
 - [Mortgage Calculator](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx) - Banrate's mortgage calculator to estimate your monthly mortgage payment
+- [Cost Seg Smart](https://costsegsmart.com/) - Engineering-based cost segregation studies for rental property investors. Accelerates depreciation deductions to reduce taxes in Year 1. Most residential studies delivered same day, starting at $495.
 ## Survey
 - [Swagbucks](https://swagbucks.com) - Swagbucks gives you the most opportunities to earn money
 - [Toluna](https://toluna.com) - Toluna is a service to ask and answer questions and get rewarded for sharing your opinions.
