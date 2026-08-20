@@ -248,6 +248,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [College Recruiter](https://www.collegerecruiter.com) - College Recruiter is a freelance niche job board for college and university students searching for internships
 - [Trulancer](https://www.truelancer.com) - Truelancer.com is an Online Platform for Employers to Hire Professionals to get their work done
 - [Linkedin Profinder](https://www.linkedin.com/profinder) - LinkedIn ProFinder is LinkedIn's professional services marketplace that helps you find the best freelance or independent professionals in your area.
+- [SmartBizCalc](https://smartbizcalc.com) - Free financial calculators for freelancers and independent contractors: 1099-vs-W2 comparison, self-employment tax, hourly rate, break-even, and S-corp savings — no signup required.
 ### Copywriting
 - [GreatContent](https://www.greatcontent.com/content-marketplace/) - GreatContent is a writing platform with unique content
 - [Scripted](https://www.scripted.com/) - Scripted helps you to work with thousands of professional copywriters to increase website traffic
