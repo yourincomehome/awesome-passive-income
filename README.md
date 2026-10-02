@@ -69,6 +69,7 @@ Awesome-Passive-Income is an amazing list for people who plan to launch an onlin
 - [ClickBank](https://clickbank.com) - ClickBank is an affiliate network that has a lot of digital products, though it also offers physical products as well.
 - [CJ Affiliate](https://www.cj.com) - CJ Affiliate is another affiliate network that brings together thousands of different merchants under one roof (a lot like ShareASale).
 - [FlexOffers](https://www.flexoffers.com) - FlexOffers is a long-standing, popular affiliate platform that gets you access to 12,000+ different advertisers/merchants.
+- [AVDEB Affiliate Program](https://avdeb.com/affiliate/) - Earn commission on every sale.
 ## Audio
 - [AWAL](https://www.awal.com/) - AWAL is an independent record label and a distribution company with headquarters in London
 - [Amuse.io](https://www.amuse.io/) - Amuse.io is a tool that allows you to upload your music to services
